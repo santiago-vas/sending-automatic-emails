@@ -96,3 +96,5 @@ s.ehlo()
 s.login(smtpUserName,smtpPassword)
 s.sendmail(fromMail, toMail.split(',') + ccMail.split(',') + hiddenMail.split(','), msg.as_string())
 s.quit()
+
+# todo el codigo aqui presetnado es redactado y referenciado de codigos de repositiprosrios y librerias alusivas al tema tratado.
