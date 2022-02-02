@@ -1,0 +1,4 @@
+Este repositorio se encarga de mostrar un codigo basico, de como enviar un archivo 
+excel mediante email, que contiene 2 dataframes divido en dos hojas de excel.
+
+tener en cuenta los nombres de titulos, archivos, hojas de excel y las credenciales necesarias para los permisos de enviar emails.
